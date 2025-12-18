@@ -1,0 +1,19 @@
+.list-view {
+    -fx-background-color: lightpink;
+    -fx-text-fill: lightpink;
+}
+.label{
+    -fx-text-fill: purple;
+}
+.v-box{
+    -fx-background-color: lightpink;
+}
+.grid-pane{
+    -fx-background-color: lightpink;
+}
+.text-field{
+    -fx-background-color: lightpink;
+}
+.button{
+    -fx-background-color: lightblue;
+}
